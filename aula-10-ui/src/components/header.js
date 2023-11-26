@@ -13,7 +13,7 @@ function Header() {
         <AppBar position="static">
           <Toolbar>
             <IconButton
-              size="large"
+              size="small"
               edge="start"
               color="inherit"
               aria-label="menu"
